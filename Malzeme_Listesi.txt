@@ -1,0 +1,15 @@
+Malzeme listesi
+4-30cm Mesafe Ölçüm Sensör Modülü
+3'lü çizgi izleyen sensör modülü
+L298N Çift Step Motor Sürücü Modülü
+Arduino UNO R3 Kontrol Kartý
+400 Point Orta Boy Breadboard
+6V 250rpm Motor ve Tekerlek Seti
+Tower Pro MG90S Metal Diþli Servo Motor
+SG-5010 Servo Motor
+40Pin Diþi-Diþi Jumper Kablosu
+Erkek - Diþi Renkli Esnek Jumper
+Diþi-Erkek Renkli Esnek Jumper Kablo
+4lü Kablolu Kalem Pil(AA) Yuvasý
+Pololu RP5/Rover 5 Ek plakasý
+Sarhoþ Teker
